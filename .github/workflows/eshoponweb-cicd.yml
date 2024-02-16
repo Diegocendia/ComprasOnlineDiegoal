@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-Diegoal
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: 34bb97f0-1507-4e29-8a47-95642d5b5320
+  SUBSCRIPTION-ID: 78da1bf1-face-4049-af50-5fa3473e5e32
   WEBAPP-NAME: az400-webapp-Diegoal
 
 
