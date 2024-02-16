@@ -87,5 +87,4 @@ jobs:
       uses: Azure/webapps-deploy@v2
       with:
         app-name: ${{ env.WEBAPP-NAME  }}
-        package: .net-app
-   
+        package: .net-app   
